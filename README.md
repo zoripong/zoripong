@@ -3,7 +3,7 @@
 
 
 💡 &nbsp;I like to ship software to customers and use new technologies.\
-🏢 &nbsp;I'm currently working at Spoqa as a full-stack programmar.\
+🏢 &nbsp;I'm currently working at Spoqa as a full-stack programmar(focused on the backend).\
 🌱 &nbsp;I'm on track for learning more about new languages and Clean Architecture.\
 ✍️ &nbsp;In my free time, I pursue making side projects.\
 ✉️ &nbsp;You can contact me at devuri404@gmail.com! I'll try to respond as soon as I can.
