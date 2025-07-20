@@ -3,7 +3,7 @@
 ## 👋 About Me
 
 💡 &nbsp;I like shipping software to customers.  
-🏢 &nbsp;I'm currently working at [Bucketplace](https://www.bucketplace.co.kr/) as a Backend Developer.  
+🏢 &nbsp;I'm currently working at [Bucketplace](https://www.bucketplace.co.kr/) as a Backend Engineer.  
 ✉️ &nbsp;You can contact me at **devuri404@gmail.com** — I’ll try to respond as soon as I can.
 
 
