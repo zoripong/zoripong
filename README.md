@@ -3,7 +3,7 @@
 ## 👋 About Me
 
 💡 &nbsp;I like shipping software to customers.  
-🏢 &nbsp;I'm currently working at LINE Corporation as a AI Agent Engineer & Backend Engineer.  
+🏢 &nbsp;I'm currently working at LINE Corporation as an AI Agent Engineer & Backend Engineer.  
 ✉️ &nbsp;You can contact me at **devuri404@gmail.com** — I’ll try to respond as soon as I can.
 
 
